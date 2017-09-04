@@ -1,3 +1,3 @@
 class profile::oracle_db {
-  include ::tns_repo
+  include tns_repo
 }
